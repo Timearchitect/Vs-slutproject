@@ -389,6 +389,7 @@ h3 {
     #user-input,
     submit-btn {
         background-color: #080936 !important;
+        color:white !important;
     }
 
     #submit-btn,#delete-btn,p,h3{ filter:brightness(0.8)}
